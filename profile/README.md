@@ -1,9 +1,7 @@
 # dodmcdund-cc
 
-Open-source contributions by **Fred** — software engineer, musician, tinkerer.
-
-Projects: [openclaw-skill-outlook-entra](https://github.com/fredguile/openclaw-skill-outlook-entra)
-
+[![fredguile](https://avatars.githubusercontent.com/u/209813?v=4&s=48)](https://github.com/fredguile)
+[LinkedIn](https://www.linkedin.com/in/fredericghilini/)
 ---
 
-*"If it works, it's good. If it works and it's clean, it's better."*
+This is my dummy organisation containing a selection of open-source contributions that I've been using in production.
